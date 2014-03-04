@@ -1,0 +1,7 @@
+C:\Users\Lyrix\Desktop\Orchard\src\Orchard.Profile\bin\Release\Orchard.Profile.dll
+C:\Users\Lyrix\Desktop\Orchard\src\Orchard.Profile\bin\Release\Orchard.Profile.pdb
+C:\Users\Lyrix\Desktop\Orchard\src\Orchard.Profile\bin\Release\nunit.framework.dll
+C:\Users\Lyrix\Desktop\Orchard\src\Orchard.Profile\bin\Release\TechTalk.SpecFlow.dll
+C:\Users\Lyrix\Desktop\Orchard\src\Orchard.Profile\obj\Release\Orchard.Profile.csprojResolveAssemblyReference.cache
+C:\Users\Lyrix\Desktop\Orchard\src\Orchard.Profile\obj\Release\Orchard.Profile.dll
+C:\Users\Lyrix\Desktop\Orchard\src\Orchard.Profile\obj\Release\Orchard.Profile.pdb

@@ -1,0 +1,26 @@
+﻿@import url("css/alerts.css");
+@import url("css/animation.css");
+@import url("css/application.css");
+@import url("css/backgrounds.css");
+@import url("css/breadcrumbs.css");
+@import url("css/buttons.css");
+@import url("css/font.css");
+@import url("css/forms.css");
+@import url("css/helpers.css");
+@import url("css/pagination.css");
+@import url("css/plugins.css");
+@import url("css/print.css");
+@import url("css/print.css");
+@import url("css/scaffolding.css");
+@import url("css/style.css");
+@import url("css/tables.css");
+@import url("css/typography.css");
+@import url("css/workless.css");
+
+
+
+form li {
+    list-style: none;
+}
+
+.displayText {display:none;}

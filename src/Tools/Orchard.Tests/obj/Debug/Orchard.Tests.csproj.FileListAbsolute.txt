@@ -1,0 +1,11 @@
+C:\Users\Lyrix\Desktop\Orchard\src\Tools\Orchard.Tests\bin\Debug\Orchard.Tests.dll
+C:\Users\Lyrix\Desktop\Orchard\src\Tools\Orchard.Tests\bin\Debug\Orchard.Tests.pdb
+C:\Users\Lyrix\Desktop\Orchard\src\Tools\Orchard.Tests\bin\Debug\Moq.dll
+C:\Users\Lyrix\Desktop\Orchard\src\Tools\Orchard.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Lyrix\Desktop\Orchard\src\Tools\Orchard.Tests\bin\Debug\Orchard.exe
+C:\Users\Lyrix\Desktop\Orchard\src\Tools\Orchard.Tests\bin\Debug\Orchard.pdb
+C:\Users\Lyrix\Desktop\Orchard\src\Tools\Orchard.Tests\bin\Debug\Moq.pdb
+C:\Users\Lyrix\Desktop\Orchard\src\Tools\Orchard.Tests\bin\Debug\Moq.xml
+C:\Users\Lyrix\Desktop\Orchard\src\Tools\Orchard.Tests\obj\Debug\Orchard.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Lyrix\Desktop\Orchard\src\Tools\Orchard.Tests\obj\Debug\Orchard.Tests.dll
+C:\Users\Lyrix\Desktop\Orchard\src\Tools\Orchard.Tests\obj\Debug\Orchard.Tests.pdb

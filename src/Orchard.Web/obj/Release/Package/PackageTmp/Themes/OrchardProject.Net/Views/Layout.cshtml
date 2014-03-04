@@ -1,0 +1,88 @@
+﻿@using FluentNHibernate.Conventions
+@{
+    /* Global includes for the theme
+    ***************************************************************/
+    SetMeta("X-UA-Compatible", "IE=edge,chrome=1");
+    Style.Include("site.css");
+    if (Request.Url.ToString().Contains("docs")) {
+        Layout.Title = "Documentation";
+    }
+    else{
+        Layout.Title = "Coevery";
+    }
+    /* Some useful shortcuts or settings
+    ***************************************************************/
+
+    Func<dynamic, dynamic> Zone = x => Display(x); // Zone as an alias for Display to help make it obvious when we're displaying zones
+
+    /* Inserting some ad hoc shapes
+    ***************************************************************/
+
+    WorkContext.Layout.Branding.Add(New.Brand(), "5");
+    WorkContext.Layout.Branding.Add(New.User(), "10"); // Login and dashboard links
+}
+<div id="wrapper">
+    @if (Model.Branding != null) {
+        <header id="header" role="header">
+            
+            <div class="boxed">
+                <!-- tagline -->
+                <div id="tagline">
+                    <h1>@Layout.Title()</h1>
+                </div>
+                <!-- /tagline -->
+            </div>
+            @Zone(Model.Branding)
+        </header>
+    }
+    @if (Model.Navigation != null) {
+        
+        <nav id="primary">
+            <div class="boxed">
+                <div id="logo-head">
+                    <a href="#"><img src="@Href("~/Themes/OrchardProject.Net/Images/coevery.png")" alt="Coevery" style="width:40px"/></a>
+                </div>
+                @Zone(Model.Navigation)
+            </div>
+        </nav>
+    }
+    <div id="content">
+        <section id="documentation">
+            <article class="boxed">
+                @if (Model.Sidebar != null)
+                {
+                    <nav id="docs">
+                        @Zone(Model.Sidebar)
+                    </nav>
+                }
+                @if (Model.Featured != null) {
+                    <div id="layout-featured" class="group">
+                        @Zone(Model.Featured)
+                    </div>
+                }
+                @if (Model.Messages != null) {
+                    <div id="messages">
+                        @Zone(Model.Messages)
+                    </div>
+                }
+                @if (Model.BeforeContent != null) {
+                    <div id="before-content">
+                        @Zone(Model.BeforeContent)
+                    </div>
+                }
+                @if (Model.Content != null) {
+                    <div id="docs-content">
+                        @Zone(Model.Content)
+                    </div>
+                }
+                @if (Model.AfterContent != null) {
+                    <div id="after-content">
+                        @Zone(Model.AfterContent)
+                    </div>
+                }
+
+            </article>
+        </section>
+        @Display.Footer()
+    </div>
+</div>

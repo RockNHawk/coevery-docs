@@ -1,0 +1,51 @@
+﻿@using FluentNHibernate.Utils
+@using Orchard.Mvc.Html;
+@using Orchard.UI.Resources;
+@{
+    RegisterLink(new LinkEntry { Type = "image/x-icon", Rel = "shortcut icon", Href = @Href("~/Themes/OrchardProject.Net/Images/coevery.png") });
+    Script.Include("jquery.min.js").AtHead();
+    Script.Include("application.js").AtHead();  
+}
+<!DOCTYPE html> 
+<html lang="en" class="static @Html.ClassForPage()"> 
+<head> 
+    <meta charset="utf-8" /> 
+    <title>@Layout.Title() - Orchard Project</title> 
+    @Display(Model.Head)
+
+    <script type="text/javascript">(function(d){d.className="dyn "+d.className.substring(7,d.length);})(document.documentElement);</script> 
+    <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-20757794-1']);
+        _gaq.push(['_trackPageview']);
+        (function () {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+</head> 
+    <body  id="index" class="page docs">
+        <!-- wrapper -->
+        @Display(Model.Body)
+        @Display(Model.Tail)
+        <!-- /wrapper -->
+        
+        <!-- to the top -->
+        <div id="top">
+            <a href="#index" title="Back to the top">
+                <i class="icon-chevron-up"></i>
+            </a>
+        </div>
+        <!-- /to the top -->
+
+        <!-- copyright -->
+        <section id="copyright" class="textcenter">
+            <div class="boxed">
+                <div class="animated slideInLeft">Laravel is a trademark of Taylor Otwell. Copyright &copy; <a href="http://twitter.com/taylorotwell" title="Taylor Otwell" target="_blank">Taylor Otwell</a>. Website built with &hearts; <a href="//ikreativ.com" title="iKreativ" target="_blank">iKreativ</a>.</div>
+            </div>
+        </section>
+        <!-- /copyright --> 
+        
+    </body>
+</html>

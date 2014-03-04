@@ -1,0 +1,12 @@
+State: Running
+Themes: 
+Name: Default
+DataProvider: SqlServer
+DataConnectionString: Data Source=icese7en;Initial Catalog=Coevery;Persist Security Info=True;User ID=sa;Password=123456789 
+DataTablePrefix: null
+RequestUrlHost: null
+RequestUrlPrefix: null
+EncryptionAlgorithm: AES
+EncryptionKey: FA7DA2204BC1518C75125D7EB27966D3EC925FDBD55ACF416728176CEEA9B12C
+HashAlgorithm: HMACSHA256
+HashKey: 7A760D574E9A3A5F82393EFCD6D079369F76D970AE4915E8A3EDB2DEF06729211C64B82735F9678F04FAD93CB172D875BE12E24DA04B5138BA43E45EF31A439B
