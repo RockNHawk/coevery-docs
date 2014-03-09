@@ -55,3 +55,22 @@ nav#primary ul li.active a {
     border-bottom: 5px solid #0097d9;
 }
 
+#wrapper #primary .zone fieldset {
+    float: right;
+    border: none;
+    padding: 0px 0px 0px 5px;
+    margin-top: 3px;
+}
+
+#wrapper #primary .zone fieldset button {
+    height: 38px;
+    margin-top: 7px !important;
+}
+
+#wrapper #primary .zone fieldset input {
+    margin-top: 7px !important;
+}
+
+nav#primary {
+    opacity: 0.9;
+}

@@ -337,7 +337,7 @@ nav#primary
 	float: left;
 	position: relative;
 	z-index: 999;
-	border-bottom: 1px solid #e5e5e5;
+	border-bottom: none;
 	box-shadow: 0 -5px 0 rgba(0, 0, 0, 0.03);
 }
 
