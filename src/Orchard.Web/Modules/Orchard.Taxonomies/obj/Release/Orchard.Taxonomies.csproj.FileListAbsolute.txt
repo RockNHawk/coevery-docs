@@ -45,3 +45,4 @@ C:\Users\Lyrix\Desktop\Orchard\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\Ie
 C:\Users\Lyrix\Desktop\Orchard\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\System.Net.Http.Formatting.xml
 C:\Users\Lyrix\Desktop\Orchard\src\Orchard.Web\Modules\Orchard.Taxonomies\obj\Release\Orchard.Taxonomies.dll
 C:\Users\Lyrix\Desktop\Orchard\src\Orchard.Web\Modules\Orchard.Taxonomies\obj\Release\Orchard.Taxonomies.pdb
+C:\Users\Lyrix\Desktop\Orchard\src\Orchard.Web\Modules\Orchard.Taxonomies\obj\Release\Orchard.Taxonomies.csprojResolveAssemblyReference.cache

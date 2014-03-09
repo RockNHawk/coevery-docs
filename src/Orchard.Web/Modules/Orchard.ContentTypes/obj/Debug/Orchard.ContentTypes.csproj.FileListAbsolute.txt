@@ -41,3 +41,4 @@ C:\Users\Lyrix\Desktop\Orchard\src\Orchard.Web\Modules\Orchard.ContentTypes\bin\
 C:\Users\Lyrix\Desktop\Orchard\src\Orchard.Web\Modules\Orchard.ContentTypes\bin\System.Net.Http.Formatting.xml
 C:\Users\Lyrix\Desktop\Orchard\src\Orchard.Web\Modules\Orchard.ContentTypes\obj\Debug\Orchard.ContentTypes.dll
 C:\Users\Lyrix\Desktop\Orchard\src\Orchard.Web\Modules\Orchard.ContentTypes\obj\Debug\Orchard.ContentTypes.pdb
+C:\Users\Lyrix\Desktop\Orchard\src\Orchard.Web\Modules\Orchard.ContentTypes\obj\Debug\Orchard.ContentTypes.csprojResolveAssemblyReference.cache

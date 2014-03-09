@@ -39,3 +39,4 @@ C:\Users\Lyrix\Desktop\Orchard\src\Orchard.Web\Modules\Orchard.Localization\bin\
 C:\Users\Lyrix\Desktop\Orchard\src\Orchard.Web\Modules\Orchard.Localization\bin\System.Net.Http.Formatting.xml
 C:\Users\Lyrix\Desktop\Orchard\src\Orchard.Web\Modules\Orchard.Localization\obj\Debug\Orchard.Localization.dll
 C:\Users\Lyrix\Desktop\Orchard\src\Orchard.Web\Modules\Orchard.Localization\obj\Debug\Orchard.Localization.pdb
+C:\Users\Lyrix\Desktop\Orchard\src\Orchard.Web\Modules\Orchard.Localization\obj\Debug\Orchard.Localization.csprojResolveAssemblyReference.cache

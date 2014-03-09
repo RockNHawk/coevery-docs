@@ -39,3 +39,4 @@ C:\Users\Lyrix\Desktop\Orchard\src\Orchard.Web\Modules\Orchard.ImportExport\bin\
 C:\Users\Lyrix\Desktop\Orchard\src\Orchard.Web\Modules\Orchard.ImportExport\bin\System.Net.Http.Formatting.xml
 C:\Users\Lyrix\Desktop\Orchard\src\Orchard.Web\Modules\Orchard.ImportExport\obj\Debug\Orchard.ImportExport.dll
 C:\Users\Lyrix\Desktop\Orchard\src\Orchard.Web\Modules\Orchard.ImportExport\obj\Debug\Orchard.ImportExport.pdb
+C:\Users\Lyrix\Desktop\Orchard\src\Orchard.Web\Modules\Orchard.ImportExport\obj\Debug\Orchard.ImportExport.csprojResolveAssemblyReference.cache

@@ -39,3 +39,4 @@ C:\Users\Lyrix\Desktop\Orchard\src\Orchard.Web\Modules\Orchard.OutputCache\bin\I
 C:\Users\Lyrix\Desktop\Orchard\src\Orchard.Web\Modules\Orchard.OutputCache\bin\System.Net.Http.Formatting.xml
 C:\Users\Lyrix\Desktop\Orchard\src\Orchard.Web\Modules\Orchard.OutputCache\obj\Release\Orchard.OutputCache.dll
 C:\Users\Lyrix\Desktop\Orchard\src\Orchard.Web\Modules\Orchard.OutputCache\obj\Release\Orchard.OutputCache.pdb
+C:\Users\Lyrix\Desktop\Orchard\src\Orchard.Web\Modules\Orchard.OutputCache\obj\Release\Orchard.OutputCache.csprojResolveAssemblyReference.cache

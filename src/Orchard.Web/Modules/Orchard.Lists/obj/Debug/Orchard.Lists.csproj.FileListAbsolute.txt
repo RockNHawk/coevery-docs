@@ -39,3 +39,4 @@ C:\Users\Lyrix\Desktop\Orchard\src\Orchard.Web\Modules\Orchard.Lists\bin\Iesi.Co
 C:\Users\Lyrix\Desktop\Orchard\src\Orchard.Web\Modules\Orchard.Lists\bin\System.Net.Http.Formatting.xml
 C:\Users\Lyrix\Desktop\Orchard\src\Orchard.Web\Modules\Orchard.Lists\obj\Debug\Orchard.Lists.dll
 C:\Users\Lyrix\Desktop\Orchard\src\Orchard.Web\Modules\Orchard.Lists\obj\Debug\Orchard.Lists.pdb
+C:\Users\Lyrix\Desktop\Orchard\src\Orchard.Web\Modules\Orchard.Lists\obj\Debug\Orchard.Lists.csprojResolveAssemblyReference.cache

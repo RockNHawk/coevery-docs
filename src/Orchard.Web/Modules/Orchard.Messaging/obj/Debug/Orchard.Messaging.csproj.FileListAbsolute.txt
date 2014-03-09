@@ -37,3 +37,4 @@ C:\Users\Lyrix\Desktop\Orchard\src\Orchard.Web\Modules\Orchard.Messaging\bin\Ies
 C:\Users\Lyrix\Desktop\Orchard\src\Orchard.Web\Modules\Orchard.Messaging\bin\System.Net.Http.Formatting.xml
 C:\Users\Lyrix\Desktop\Orchard\src\Orchard.Web\Modules\Orchard.Messaging\obj\Debug\Orchard.Messaging.dll
 C:\Users\Lyrix\Desktop\Orchard\src\Orchard.Web\Modules\Orchard.Messaging\obj\Debug\Orchard.Messaging.pdb
+C:\Users\Lyrix\Desktop\Orchard\src\Orchard.Web\Modules\Orchard.Messaging\obj\Debug\Orchard.Messaging.csprojResolveAssemblyReference.cache

@@ -43,3 +43,4 @@ C:\Users\Lyrix\Desktop\Orchard\src\Orchard.Web\Modules\Orchard.ImageEditor\bin\I
 C:\Users\Lyrix\Desktop\Orchard\src\Orchard.Web\Modules\Orchard.ImageEditor\bin\System.Net.Http.Formatting.xml
 C:\Users\Lyrix\Desktop\Orchard\src\Orchard.Web\Modules\Orchard.ImageEditor\obj\Debug\Orchard.ImageEditor.dll
 C:\Users\Lyrix\Desktop\Orchard\src\Orchard.Web\Modules\Orchard.ImageEditor\obj\Debug\Orchard.ImageEditor.pdb
+C:\Users\Lyrix\Desktop\Orchard\src\Orchard.Web\Modules\Orchard.ImageEditor\obj\Debug\Orchard.ImageEditor.csprojResolveAssemblyReference.cache

@@ -39,3 +39,4 @@ C:\Users\Lyrix\Desktop\Orchard\src\Orchard.Web\Modules\Orchard.SecureSocketsLaye
 C:\Users\Lyrix\Desktop\Orchard\src\Orchard.Web\Modules\Orchard.SecureSocketsLayer\bin\System.Net.Http.Formatting.xml
 C:\Users\Lyrix\Desktop\Orchard\src\Orchard.Web\Modules\Orchard.SecureSocketsLayer\obj\Debug\Orchard.SecureSocketsLayer.dll
 C:\Users\Lyrix\Desktop\Orchard\src\Orchard.Web\Modules\Orchard.SecureSocketsLayer\obj\Debug\Orchard.SecureSocketsLayer.pdb
+C:\Users\Lyrix\Desktop\Orchard\src\Orchard.Web\Modules\Orchard.SecureSocketsLayer\obj\Debug\Orchard.SecureSocketsLayer.csprojResolveAssemblyReference.cache

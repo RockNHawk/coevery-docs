@@ -18,9 +18,57 @@
 @import url("css/workless.css");
 
 
+body {
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+}
 
 form li {
     list-style: none;
 }
 
 .displayText {display:none;}
+
+nav #primary {
+    background: #292929;
+}
+
+.logo {
+    margin-top: 6px;
+    width: 170px;
+    font-size: 24px;
+    text-transform: uppercase;
+    color: #fff;
+    display: block;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+.logo img {
+    height: 28px;
+    float: left;
+    margin-right: 10px;
+}
+
+.left {
+    float: left;
+    margin-top: 12px;
+}
+
+.right {
+    float: right;
+}
+
+nav#primary ul li a {
+    font: normal 14px 'Open Sans', Arial, Helvetica, sans-serif;
+    color: #fff;
+    padding-bottom: 15px;
+}
+
+nav#primary ul li a:hover {
+    color: #0097d9;
+}
+
+nav#primary ul li.active a {
+    border-bottom: 5px solid #0097d9;
+}
+

@@ -41,3 +41,4 @@ C:\Users\Lyrix\Desktop\Orchard\src\Orchard.Web\Modules\Orchard.AntiSpam\bin\Iesi
 C:\Users\Lyrix\Desktop\Orchard\src\Orchard.Web\Modules\Orchard.AntiSpam\bin\System.Net.Http.Formatting.xml
 C:\Users\Lyrix\Desktop\Orchard\src\Orchard.Web\Modules\Orchard.AntiSpam\obj\Release\Orchard.AntiSpam.dll
 C:\Users\Lyrix\Desktop\Orchard\src\Orchard.Web\Modules\Orchard.AntiSpam\obj\Release\Orchard.AntiSpam.pdb
+C:\Users\Lyrix\Desktop\Orchard\src\Orchard.Web\Modules\Orchard.AntiSpam\obj\Release\Orchard.AntiSpam.csprojResolveAssemblyReference.cache

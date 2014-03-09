@@ -153,6 +153,8 @@
     </Content>
     <None Include="OrchardProject.Net\Styles\Site.css.bak" />
     <Content Include="OrchardProject.Net\Styles\Site.css" />
+    <Content Include="OrchardProject.Net\Styles\style-2.css" />
+    <Content Include="OrchardProject.Net\Styles\style.css" />
     <Content Include="OrchardProject.Net\Theme.png" />
     <Content Include="OrchardProject.Net\Theme.txt" />
     <Content Include="OrchardProject.Net\ThemeZonePreview.png" />
