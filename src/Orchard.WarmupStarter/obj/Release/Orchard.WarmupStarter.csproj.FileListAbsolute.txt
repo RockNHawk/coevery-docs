@@ -1,5 +1,0 @@
-C:\Users\Lyrix\Desktop\Orchard\src\Orchard.WarmupStarter\bin\Release\Orchard.WarmupStarter.dll
-C:\Users\Lyrix\Desktop\Orchard\src\Orchard.WarmupStarter\bin\Release\Orchard.WarmupStarter.pdb
-C:\Users\Lyrix\Desktop\Orchard\src\Orchard.WarmupStarter\obj\Release\Orchard.WarmupStarter.csprojResolveAssemblyReference.cache
-C:\Users\Lyrix\Desktop\Orchard\src\Orchard.WarmupStarter\obj\Release\Orchard.WarmupStarter.dll
-C:\Users\Lyrix\Desktop\Orchard\src\Orchard.WarmupStarter\obj\Release\Orchard.WarmupStarter.pdb

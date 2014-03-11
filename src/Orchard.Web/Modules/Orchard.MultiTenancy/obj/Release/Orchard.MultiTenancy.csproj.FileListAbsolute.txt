@@ -1,4 +1,0 @@
-C:\Users\Lyrix\Desktop\Orchard\src\Orchard.Web\Modules\Orchard.MultiTenancy\bin\Orchard.MultiTenancy.dll
-C:\Users\Lyrix\Desktop\Orchard\src\Orchard.Web\Modules\Orchard.MultiTenancy\bin\Orchard.MultiTenancy.pdb
-C:\Users\Lyrix\Desktop\Orchard\src\Orchard.Web\Modules\Orchard.MultiTenancy\obj\Release\Orchard.MultiTenancy.dll
-C:\Users\Lyrix\Desktop\Orchard\src\Orchard.Web\Modules\Orchard.MultiTenancy\obj\Release\Orchard.MultiTenancy.pdb

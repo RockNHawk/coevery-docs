@@ -1,6 +1,0 @@
-C:\Users\Lyrix\Desktop\Orchard\src\Tools\Orchard\bin\Release\Orchard.exe.config
-C:\Users\Lyrix\Desktop\Orchard\src\Tools\Orchard\bin\Release\Orchard.exe
-C:\Users\Lyrix\Desktop\Orchard\src\Tools\Orchard\bin\Release\Orchard.pdb
-C:\Users\Lyrix\Desktop\Orchard\src\Tools\Orchard\obj\Release\Orchard.csprojResolveAssemblyReference.cache
-C:\Users\Lyrix\Desktop\Orchard\src\Tools\Orchard\obj\Release\Orchard.exe
-C:\Users\Lyrix\Desktop\Orchard\src\Tools\Orchard\obj\Release\Orchard.pdb

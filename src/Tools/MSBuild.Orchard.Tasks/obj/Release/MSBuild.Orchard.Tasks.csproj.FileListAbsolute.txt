@@ -1,5 +1,0 @@
-C:\Users\Lyrix\Desktop\Orchard\src\Tools\MSBuild.Orchard.Tasks\bin\Release\MSBuild.Orchard.Tasks.dll
-C:\Users\Lyrix\Desktop\Orchard\src\Tools\MSBuild.Orchard.Tasks\bin\Release\MSBuild.Orchard.Tasks.pdb
-C:\Users\Lyrix\Desktop\Orchard\src\Tools\MSBuild.Orchard.Tasks\obj\Release\MSBuild.Orchard.Tasks.csprojResolveAssemblyReference.cache
-C:\Users\Lyrix\Desktop\Orchard\src\Tools\MSBuild.Orchard.Tasks\obj\Release\MSBuild.Orchard.Tasks.dll
-C:\Users\Lyrix\Desktop\Orchard\src\Tools\MSBuild.Orchard.Tasks\obj\Release\MSBuild.Orchard.Tasks.pdb
