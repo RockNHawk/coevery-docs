@@ -563,7 +563,7 @@ width: 100%;
 
 #documentation #docs-content ul li:before
 {
-    content: "# ";
+    content: "● ";
     color: #f4645f;
     padding-right: 5px;
     filter: alpha(opacity=40);

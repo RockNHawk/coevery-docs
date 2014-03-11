@@ -39,3 +39,4 @@ C:\Users\Lyrix\Desktop\Orchard\src\Orchard.Web\Modules\Orchard.WarmUp\bin\Iesi.C
 C:\Users\Lyrix\Desktop\Orchard\src\Orchard.Web\Modules\Orchard.WarmUp\bin\System.Net.Http.Formatting.xml
 C:\Users\Lyrix\Desktop\Orchard\src\Orchard.Web\Modules\Orchard.WarmUp\obj\Release\Orchard.Warmup.dll
 C:\Users\Lyrix\Desktop\Orchard\src\Orchard.Web\Modules\Orchard.WarmUp\obj\Release\Orchard.Warmup.pdb
+C:\Users\Lyrix\Desktop\Orchard\src\Orchard.Web\Modules\Orchard.WarmUp\obj\Release\Orchard.Warmup.csprojResolveAssemblyReference.cache

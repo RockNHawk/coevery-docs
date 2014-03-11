@@ -54,7 +54,7 @@ jQuery(document).ready(function($) {
             nav.css({
                 position: 'relative',
                 width: '100%',
-                opacity: 1
+                opacity: 0.9
             });
 
             content.css({
